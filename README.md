@@ -37,7 +37,7 @@ Go into the crowd_nav/
 
 # Trajectory Plot
 
-Baseline SARL                        Our SARL
+Baseline SARL  &nbsp;  Our SARL
 <p float="left">
    <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png" width="500" />
    <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png" width="500" />
