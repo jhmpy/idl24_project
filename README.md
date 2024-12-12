@@ -37,3 +37,5 @@ Go into the crowd_nav/
 
 # Trajectory Plot
 
+![trajectory path for baseline SARL](https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png)
+
