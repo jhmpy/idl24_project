@@ -1,4 +1,7 @@
-# idl24_project
-CMU Introduction to deep learning course project
+# IDL24 Project
 
-Topic: Deep Reinforcement Learning-Based Mobile Robot Navigation in Social Spaces
+# Deep Reinforcement Learning-Based Mobile Robot Navigation in Social Spaces
+
+# Abstract
+
+Navigating crowded social spaces poses unique challenges for mobile robots, particularly in maintaining safety and adhering to social norms. Traditional navigation approaches, which often treat humans as mere obstacles, fall short in dynamic environments. Deep reinforcement learning has recently made significant strides in developing human-aware navigation policies, but real-world implementation is hindered by constraints in navigation distance and oversimplified environmental assumptions. This paper introduces an enhanced Socially Aware Reinforcement Learning (SARL) framework that addresses these limitations through three innovations. First, it integrates global path planning via a Dijkstra-based algorithm to determine intermediate local goals, ensuring steady progress towards global targets. Second, it refines the action space by screening out unsafe maneuvers through forward velocity simulations and occupancy-grid-based environmental modeling. Third, it leverages a value network architecture employing multilayer perceptrons and a socially attentive pooling mechanism, which processes inputs such as the robot's state and surrounding humans' states to quantify the relative significance of each human in the scene. The output is an optimal, socially compliant navigation policy that enables more natural trajectories. Experimental results demonstrate significant improvements in navigation efficiency, zero-collision performance, and robustness over baseline SARL methods. These findings highlight the feasibility of deploying socially aware reinforcement learning for real-world applications where human-robot coexistence is paramount.
