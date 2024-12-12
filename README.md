@@ -37,12 +37,9 @@ Go into the crowd_nav/
 
 # Trajectory Plot
 
-![trajectory path for baseline SARL](https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png) ![Our SARL trajectory path](https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png)
-
+Baseline SARL                        Our SARL
 <p float="left">
-   Baseline SARL
    <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png" width="500" />
-   Our SARL
    <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png" width="500" />
 </p>
 
