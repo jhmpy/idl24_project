@@ -9,8 +9,28 @@ Navigating crowded social spaces poses unique challenges for mobile robots, part
 
 # Setup and Run
 
+The CrowdNav/ folder contains the crowd_sim/ folder which contains the simulation environment and crowd_nav/ folder that contains codes for training and testing the policy.
+
 1. Install [Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2) library
 2. From the CrowdNav folder, install crowd_sim and crowd_nav into pip with:
   ```
   pip install -e .
   ```
+3. Train the SARL model policy
+   ```
+   python train.py --policy sarl
+   ```
+4. Test the policy after training
+   ```
+   python test.py --policy sarl --model_dir data/output --phase test
+   ```
+5. Visualize simulation run result of a test case (in this case, test case 0)
+   ```
+   python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 0
+   ```
+6. Plot and visualize trajectory path
+   ```
+   python test.py --policy sarl --model_dir data/output --phase test --visualize --test_case 0 --traj
+
+# Trajectory Plot
+
