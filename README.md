@@ -13,9 +13,9 @@ The CrowdNav/ folder contains the crowd_sim/ folder which contains the simulatio
 
 1. Install [Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2) library
 2. From the CrowdNav folder, install crowd_sim and crowd_nav into pip with:
-  ```
-  pip install -e .
-  ```
+   ```
+   pip install -e .
+   ```
 3. Train the SARL model policy
    ```
    python train.py --policy sarl
