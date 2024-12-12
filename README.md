@@ -50,14 +50,14 @@ Go into the crowd_nav/ directory
 
 Baseline SARL &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;                                Our SARL
 <p float="left">
-   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/baseline_test_animation.gif" width="300" />
-   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/testcase_animation.gif" width="300" />
+   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/baseline_test_animation.gif" width="400" />
+   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/testcase_animation.gif" width="400" />
 </p>
 
 # Trajectory Plot
 
 Baseline SARL &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;  &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;                                Our SARL
 <p float="left">
-   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png" width="300" />
-   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png" width="300" />
+   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png" width="400" />
+   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png" width="400" />
 </p>
