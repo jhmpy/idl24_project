@@ -40,7 +40,7 @@ Go into the crowd_nav/
 ![trajectory path for baseline SARL](https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png) ![Our SARL trajectory path](https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png)
 
 <p float="left">
-   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png" width="50" />
-   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png" width="50" />
+   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/trajectory_sarl.png" width="100" />
+   <img src="https://github.com/jhmpy/idl24_project/blob/main/crowd_nav/data/output/our_sarl_trajectory.png" width="100" />
 </p>
 
