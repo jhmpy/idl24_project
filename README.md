@@ -11,6 +11,6 @@ Navigating crowded social spaces poses unique challenges for mobile robots, part
 
 1. Install [Python-RVO2](https://github.com/sybrenstuvel/Python-RVO2) library
 2. From the CrowdNav folder, install crowd_sim and crowd_nav into pip with:
-```
-pip install -e .
-```
+  ```
+  pip install -e .
+  ```
