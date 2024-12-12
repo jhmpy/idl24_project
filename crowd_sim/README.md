@@ -1,6 +1,3 @@
-# Author: Changan Chen <changanvr@gmail.com>
-# Modified by: Keyu Li <kyli@link.cuhk.edu.hk>
-
 # Simulation Framework
 ## Environment
 The environment contains n+1 agents. N of them are humans controlled by certain unknown
