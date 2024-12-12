@@ -1,4 +1,4 @@
-# IDL24 Project
+# 11-785 Introduction to Deep Learning Project
 
 # Deep Reinforcement Learning-Based Mobile Robot Navigation in Social Spaces
 
@@ -12,9 +12,11 @@ Navigating crowded social spaces poses unique challenges for mobile robots, part
 
 # Code Structure
 
-. Python-RVO2: The crowd simulator that uses Optimal Reciprocal Collision Avoidance (ORCA) algorithm
-. crowd_nav: Contains codes for training and testing, outputs, and plots
-. crowd_sim: Contains code that runs the simulation environment
+- Python-RVO2: The crowd simulator that uses Optimal Reciprocal Collision Avoidance (ORCA) algorithm
+
+- crowd_nav: Contains codes for training and testing, outputs, and plots
+  
+- crowd_sim: Contains code that runs the simulation environment
 
 # Setup and Run
 
